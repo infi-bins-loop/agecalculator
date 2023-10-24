@@ -1,0 +1,28 @@
+#age{
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+}
+.ageMain{
+    height: 50vh;
+    width: 40vw;
+    margin-top: 5rem;
+    padding: 2rem;
+}
+.ageTitle{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.ageDate{
+    color: rgb(117, 116, 116);
+    height: 3vh;
+    width: 20vw;
+}
+
+.ageDis{
+    font-weight: bold;
+    padding-top: 2rem;
+    font-size: large;
+}
